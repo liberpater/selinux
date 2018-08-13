@@ -8,8 +8,9 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 
 
-A library for managing SELinux
+A library for managing SELinux. 
 
+The minimum version of php will be kept at the latest version of php provided by SCL.
 
 
 ## Install
